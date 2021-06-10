@@ -1,0 +1,52 @@
+model:
+  name: 'osnet_x1_0'
+  pretrained: True
+#  load_weights: '/home/eini/WZY/OSAF/log/wild/model/model.pth.tar-110'
+
+data:
+  type: 'image'
+#  sources: ['viper']
+#  targets: ['viper']
+  sources: ['wild']
+  targets: ['wild']
+  height: 320
+  width: 320          #veri
+  combineall: False
+  transforms: ['random_flip'] #此处无效，在torchreid/data/transform.py中直接修改
+#  save_dir: '../log/veri_osnet_tri_320x320_adam_cosine_A_CBAM_in_font397_lossToOne_215_drop0.2_lr0.25_in216'
+#  save_dir: '../cbam'
+#  save_dir: '../wild'
+  save_dir: '/home/eini/WZY/vehicle_osaf_412_215/out/215cbam_sanyuan'
+#  save_dir: '../log/wild_middle'
+loss:
+  name: 'triplet'                            #此时，调用处已经仅仅包含三元组损失
+  softmax:
+    label_smooth: True
+  triplet:
+    weight_t: 1.
+    weight_x: 1.
+    margin: 0. # 0.-->softmargin
+sampler:
+  train_sampler: 'RandomIdentitySampler'
+  num_instances: 4
+
+train:
+  optim: 'adam'
+  lr: 0.000025
+  #  lr: 0.0015
+  max_epoch: 150
+  batch_size: 64
+  lr_scheduler: 'warmup'
+  stepsize: [60, 90]
+  start_epoch: 0
+
+test:
+  batch_size: 300
+  dist_metric: 'euclidean'
+  normalize_feature: False
+  evaluate: False
+#  evaluate: True
+  eval_freq: 5
+  rerank: True
+
+

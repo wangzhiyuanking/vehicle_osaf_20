@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e16202b-e784-4644-b737-8f44b710c942" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/torchreid/engine/engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1919">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/torchreid/engine/image/triplet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/torchreid/models/osnet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="747">
+              <caret line="566" column="54" selection-start-line="566" selection-start-column="54" selection-end-line="566" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#787#1533#0" />
+                <element signature="e#1565#2124#0" />
+                <element signature="e#2162#2576#0" />
+                <element signature="e#2608#3167#0" />
+                <element signature="e#3344#3842#0" />
+                <element signature="e#4094#5893#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configs/215veri_wildCbam_sanyuan.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/default_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2052">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/torchreid/engine/image/softmax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Building</find>
+      <find>drop</find>
+      <find>SummaryWriter</find>
+      <find>writer</find>
+      <find>draw</find>
+      <find>visrank</find>
+      <find>test_only</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/configs/veri_osnet_tri_320x320_adam_cosine_A_CBAM_in_font397_lossToOne_215_drop0.2_lr0.25_in216.yaml" />
+        <option value="$PROJECT_DIR$/configs/veri.yaml" />
+        <option value="$PROJECT_DIR$/torchreid/data/datasets/image/wild.py" />
+        <option value="$PROJECT_DIR$/torchreid/data/datasets/image/__init__.py" />
+        <option value="$PROJECT_DIR$/torchreid/data/datasets/__init__.py" />
+        <option value="$PROJECT_DIR$/configs/veri_wild.yaml" />
+        <option value="$PROJECT_DIR$/wild_cbam.sh" />
+        <option value="$PROJECT_DIR$/scripts/wild_cbam.sh" />
+        <option value="$PROJECT_DIR$/scripts/wild_cbam_ca.sh" />
+        <option value="$PROJECT_DIR$/configs/veri_wild_ca.yaml" />
+        <option value="$PROJECT_DIR$/configs/215veri_wild.yaml" />
+        <option value="$PROJECT_DIR$/scripts/215wild_cbam.sh" />
+        <option value="$PROJECT_DIR$/configs/215veri_wildCbam.yaml" />
+        <option value="$PROJECT_DIR$/torchreid/models/osnet.py" />
+        <option value="$PROJECT_DIR$/scripts/215wild_cbam_sanyuan.sh" />
+        <option value="$PROJECT_DIR$/configs/215veri_wildCbam_sanyuan.yaml" />
+        <option value="$PROJECT_DIR$/scripts/default_config.py" />
+        <option value="$PROJECT_DIR$/torchreid/engine/engine.py" />
+        <option value="$PROJECT_DIR$/torchreid/engine/image/triplet.py" />
+        <option value="$PROJECT_DIR$/scripts/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1dZTgzKq7t0ahdx9PKnMRBEW8Y0" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/configs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\vehicle_osaf_412\scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\vehicle_osaf_412_215\scripts" />
+      <recent name="H:\vehicle_osaf_412_215\configs" />
+      <recent name="H:\vehicle_osaf_412\configs" />
+      <recent name="H:\vehicle_osaf_412\torchreid\data\datasets\image" />
+      <recent name="G:\小论文参考论文\OSAF\configs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="osnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep-person-reid-master_osnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/torchreid/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/torchreid/models/osnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.osnet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e16202b-e784-4644-b737-8f44b710c942" name="Default Changelist" comment="" />
+      <created>1592631735142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592631735142</updated>
+      <workItem from="1592631751281" duration="22472000" />
+      <workItem from="1592802146068" duration="1758000" />
+      <workItem from="1592811922132" duration="60133000" />
+      <workItem from="1593133221367" duration="12892000" />
+      <workItem from="1597717522998" duration="18000" />
+      <workItem from="1597717574838" duration="567000" />
+      <workItem from="1597930053776" duration="680000" />
+      <workItem from="1598238598714" duration="48000" />
+      <workItem from="1598238717466" duration="917000" />
+      <workItem from="1598492524656" duration="1040000" />
+      <workItem from="1599173368811" duration="6802000" />
+      <workItem from="1599468465138" duration="3120000" />
+      <workItem from="1599475624249" duration="2240000" />
+      <workItem from="1599482439745" duration="4816000" />
+      <workItem from="1599521491785" duration="5082000" />
+      <workItem from="1599692321221" duration="843000" />
+      <workItem from="1599783020111" duration="382000" />
+      <workItem from="1599901106032" duration="284000" />
+      <workItem from="1600125652309" duration="498000" />
+      <workItem from="1600523400697" duration="386000" />
+      <workItem from="1600760987165" duration="555000" />
+      <workItem from="1602080794714" duration="197000" />
+      <workItem from="1602081007808" duration="10000" />
+      <workItem from="1602082847106" duration="408000" />
+      <workItem from="1602166968804" duration="439000" />
+      <workItem from="1602202843129" duration="12211000" />
+      <workItem from="1602334405086" duration="1158000" />
+      <workItem from="1602400600595" duration="769000" />
+      <workItem from="1602491791050" duration="3080000" />
+      <workItem from="1602569913661" duration="2112000" />
+      <workItem from="1602572815891" duration="1259000" />
+      <workItem from="1602574720997" duration="623000" />
+      <workItem from="1602575602570" duration="48000" />
+      <workItem from="1602576892398" duration="2832000" />
+      <workItem from="1602587476829" duration="1704000" />
+      <workItem from="1602589526003" duration="128000" />
+      <workItem from="1602590590983" duration="1387000" />
+      <workItem from="1602760477632" duration="486000" />
+      <workItem from="1602762589203" duration="641000" />
+      <workItem from="1603030984854" duration="1880000" />
+      <workItem from="1603034180356" duration="1349000" />
+      <workItem from="1603186082791" duration="1618000" />
+      <workItem from="1603190721956" duration="860000" />
+      <workItem from="1603433003204" duration="1701000" />
+      <workItem from="1603611640757" duration="1373000" />
+      <workItem from="1603762193535" duration="3824000" />
+      <workItem from="1603944055256" duration="1984000" />
+      <workItem from="1604018535719" duration="383000" />
+      <workItem from="1604121270736" duration="2314000" />
+      <workItem from="1604278413948" duration="2458000" />
+      <workItem from="1604299384946" duration="1557000" />
+      <workItem from="1604407607619" duration="656000" />
+      <workItem from="1604409071371" duration="2943000" />
+      <workItem from="1604412414187" duration="266000" />
+      <workItem from="1604565222319" duration="3439000" />
+      <workItem from="1604568684709" duration="1682000" />
+      <workItem from="1604574341550" duration="1910000" />
+      <workItem from="1604632129259" duration="106000" />
+      <workItem from="1604643508587" duration="668000" />
+      <workItem from="1604656422036" duration="675000" />
+      <workItem from="1604657194754" duration="743000" />
+      <workItem from="1604658162003" duration="2301000" />
+      <workItem from="1604663316284" duration="99000" />
+      <workItem from="1604675098718" duration="949000" />
+      <workItem from="1604725995274" duration="1282000" />
+      <workItem from="1604753539553" duration="5224000" />
+      <workItem from="1604795071870" duration="617000" />
+      <workItem from="1604797766278" duration="1780000" />
+      <workItem from="1604807016202" duration="1661000" />
+      <workItem from="1604930674102" duration="2430000" />
+      <workItem from="1604937900568" duration="2144000" />
+      <workItem from="1604972983260" duration="480000" />
+      <workItem from="1605178448602" duration="472000" />
+      <workItem from="1605425957267" duration="1727000" />
+      <workItem from="1605427757210" duration="1244000" />
+      <workItem from="1605429619802" duration="183000" />
+      <workItem from="1606380175630" duration="91000" />
+      <workItem from="1606380278218" duration="4335000" />
+      <workItem from="1606391375618" duration="1241000" />
+      <workItem from="1606407879347" duration="553000" />
+      <workItem from="1606521893448" duration="5061000" />
+      <workItem from="1606708319272" duration="4617000" />
+      <workItem from="1606717790464" duration="3250000" />
+      <workItem from="1606803727686" duration="187000" />
+      <workItem from="1606804071078" duration="376000" />
+      <workItem from="1618208271064" duration="7406000" />
+      <workItem from="1618233095517" duration="1383000" />
+      <workItem from="1618279688715" duration="709000" />
+      <workItem from="1618295193838" duration="251000" />
+      <workItem from="1618295765059" duration="87000" />
+      <workItem from="1618319730515" duration="681000" />
+      <workItem from="1618320468809" duration="361000" />
+      <workItem from="1619251167334" duration="2632000" />
+      <workItem from="1620282616224" duration="2683000" />
+      <workItem from="1620372589158" duration="2653000" />
+      <workItem from="1620972919517" duration="1148000" />
+      <workItem from="1621220055739" duration="610000" />
+      <workItem from="1621220719889" duration="1381000" />
+      <workItem from="1621222418770" duration="1255000" />
+      <workItem from="1621384099757" duration="637000" />
+      <workItem from="1621496407206" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23879000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26385927" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.21885157" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="36" key="#Deployment" timestamp="1606804201964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="387" y="36" key="#Deployment/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1598239171929" />
+    <state x="387" y="36" key="#Deployment/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606804201963" />
+    <state x="2307" y="36" key="#Deployment/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606380426062" />
+    <state x="387" y="36" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1605427828500" />
+    <state x="552" y="181" key="#Options" timestamp="1604656430797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Options/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604656430797" />
+    <state x="713" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604753715002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604753715002" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605429797325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605429797325" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1602587571217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602587571217" />
+    <state x="812" y="143" width="455" height="527" key="ftp.server.browser" timestamp="1605427811498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="812" y="143" width="720" height="527" key="ftp.server.browser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603190762428" />
+    <state x="812" y="143" width="455" height="527" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1605427811498" />
+    <state x="825" y="424" key="publish.login" timestamp="1602580482747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="424" key="publish.login/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602580482747" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/412" />
+    <entry file="file://$PROJECT_DIR$/configs/veri_osnet_tri_320x320_adam_cosine_A_CBAM_in_font397_lossToOne_215_drop0.2_lr0.25_in216.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/data/datasets/image/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/data/datasets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/data/datasets/image/wild.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="96" column="64" lean-forward="true" selection-start-line="96" selection-start-column="64" selection-end-line="96" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/models/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="187" column="84" selection-start-line="187" selection-start-column="75" selection-end-line="187" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/wild_cbam_ca.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/veri.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/veri_wild_ca.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/veri_wild_sa.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/215veri_wildCbam.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/215wild_cbam.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/215wild_cbam_sanyuan.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/engine/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/engine/image/triplet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/215veri_wildCbam_sanyuan.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/default_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/engine/image/softmax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torchreid/models/osnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="566" column="54" selection-start-line="566" selection-start-column="54" selection-end-line="566" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#787#1533#0" />
+            <element signature="e#1565#2124#0" />
+            <element signature="e#2162#2576#0" />
+            <element signature="e#2608#3167#0" />
+            <element signature="e#3344#3842#0" />
+            <element signature="e#4094#5893#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
