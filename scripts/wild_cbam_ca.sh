@@ -1,1 +1,0 @@
-python main.py --config-file ../configs/veri_wild_ca.yaml
