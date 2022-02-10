@@ -1,1 +1,0 @@
-python main.py --config-file ../configs/215veri_wildCbam.yaml
